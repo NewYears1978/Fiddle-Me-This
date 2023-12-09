@@ -12,7 +12,7 @@ My work is intended to be used with TUO(TazUO) which is a fork/modified version 
 
 **Original:** This folder contains only art that is used to override "original" art for gumps within UO
 
-The *Excel File* title1d "Art ID List" is a list of all the art IDs I have used (and others that will be used in the future). This list can help you find a particular art in case you want to edit it yourself or need to find it within an XML file. This currently only includes art IDs for my custom gump art. I will be updating this list later to include helping descriptions of all the other art in my pack, so you can easily know what they are for.
+The *Excel File* titled "Art ID List" is a list of all the art IDs I have used (and others that will be used in the future). This list can help you find a particular art in case you want to edit it yourself or need to find it within an XML file. This currently only includes art IDs for my custom gump art. I will be updating this list later to include helping descriptions of all the other art in my pack, so you can easily know what they are for.
 
 # Instructions
 These folders are structured the same way your TazUO installation would be already. To install simply drop the files into your root TazUO folder. Folders affected are TUO/Data/XmlGumps and TUO/ExternalImages where TUO is your TazUO installation directory.
