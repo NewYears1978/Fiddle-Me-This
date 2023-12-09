@@ -46,11 +46,9 @@ This is simply another more modern style Health, Mana, and Stamina bar. Designed
 
 ## Character Status - Vertical
 
-<img src="/Images/Vertical-Status-Gump.gif" width="251">
+<img src="/Images/Vertical-Status-Gump.png" width="251">
 
 This is a reworking of the extended status gump. Reworked to be vertical which can easily fit more layouts that people are using. All the colors can of course be edited. The Icons are seperate images so you can update them to your liking. You can also hue all or some of the icons or even remove the icons, to customize your menu.
 
-
-
-
+<br><br><br>
 *Dragon icon in header image not drawn by me. I just added the text and some effects. Original image from Coin Icons on <a href="https://graphicriver.net/item/coins-icons/20275714/">Graphic River</a>.
