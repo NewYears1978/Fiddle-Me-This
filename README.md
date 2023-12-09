@@ -1,4 +1,5 @@
 <img src="/Images/FMT-Logo.png" width="817">
+Dragon icon in header image not drawn by me. I just added the text and some effects. Original image from Coin Icons on [Graphic River](https://graphicriver.net/item/coins-icons/20275714/)
 
 Hello Everyone. Thanks for stopping by to check out my stuff.
 
