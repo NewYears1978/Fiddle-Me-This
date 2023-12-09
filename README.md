@@ -20,3 +20,17 @@ These folders are structured the same way your TazUO installation would be alrea
 
 
 ***IMPORTANT*** If you have a resolution lower than 2560x1440, you may need to modify some custom gump starting positions for the gump to appear. When I create these gumps I set them up for my own game, and since I run 1440p, sometimes the gump may be off the screen for someone with a lower resolution. You can fix this by going to the **<gump** tag at the start of the gump's XML file. You will find X and Y positions there, which you can modify (or just put 0 in both). Once you get the gump working you can figure out what starting position you want for the gump, and change those values.
+
+# Custom Gumps Included
+
+## Health and Mana (Diablo Inspired) 
+
+<img src="/Images/HP-MP-Orbs.gif" width="415">
+
+Designed to be in the corners of your gameplay window. Style matching the rest of my UI art. You can disable the corner pieces, as well as switch which side the corner piece is on.
+
+## Larger Health, Mana, Stamina Bar - Default Style
+
+<img src="/Images/Default-Large-HP-MP.gif" width="440">
+
+As I get older, my eyes get worse. Playing Ultima Online in 1440p is a real chore on the eyes. CUO/TUO have made many improvements, but there are a lot of gumps and elements that are just tiny when played in 2k or 4k. This is simple the default Health, Mana and Stamina bar but increased size. THe image on the left is the "default" size (again, updated one with my style art) and then the one on the right is the custom gump which is enlarged. Currently only poison is supported on the HP section of the bar, but this will be updated by Taz in TUO at some point.
