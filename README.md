@@ -27,7 +27,7 @@ These folders are structured the same way your TazUO installation would be alrea
 
 **Click below to see a video of of some of the stuff in action**
 
-<a href="https://youtu.be/3zOJwxECzEY" target="_blank">
+<a href="https://youtu.be/3zOJwxECzEY" target="_blank" rel="noopener noreferrer">
  <img src="Images/YT-Thumb.png" alt="Watch the video" border="10" />
 </a>
 
