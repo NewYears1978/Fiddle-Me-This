@@ -49,7 +49,7 @@ As I get older, my eyes get worse. Playing Ultima Online in 1440p is a real chor
 
 ## Stacked Health, Mana, Stamina Bar - Modern Style
 
-<img src="/Images/Stacked-HP-MP-SP.gif" width="350">
+<img src="/Images/Stacked-HP-MP-SP.gif" width="592">
 
 This is simply another more modern style Health, Mana, and Stamina bar. Designed to go in the upper corner of the window. Currently only poison is supported on the HP section of the bar, but this will be updated by Taz in TUO at some point. There's a smaller version included for lower resolution players.
 
