@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!-- Default Position When Gump is Opened -->
+<gump x="0" y="0">
+
+<!-- Orb Background Frame - Use this one for left side corner -->
+<image id="62077" hue="0" x="0" y="0"/>
+
+<!-- HP -->
+<hp_bar_image x="5" y="5" hue_normal="0" hue_poisoned="172" hue_background="0" direction="right" image_background ="62081" image_foreground="62078" />
+<text x="15" y="4" hue="1153" updates="TRUE" font="uo-unicode-1" size="18" align="left" width="250">{hp}/{maxhp}</text>
+<!-- MP -->
+<image_progress_bar image_background="62082" image_foreground="62079" value="{mana}" max_value="{maxmana}" x="5" y="30" updates="true"/>
+<text x="15" y="29" hue="1153" updates="TRUE" font="uo-unicode-1" size="18" align="left" width="250">{mana}/{maxmana}</text>
+<!-- Stam -->
+<image_progress_bar image_background="62083" image_foreground="62080" value="{stam}" max_value="{maxstam}" x="5" y="55" updates="true"/>
+<text x="15" y="54" hue="1153" updates="TRUE" font="uo-unicode-1" size="18" align="left" width="250">{stam}/{maxstam}</text>
+
+
+</gump>
