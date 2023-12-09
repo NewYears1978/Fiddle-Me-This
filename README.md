@@ -34,3 +34,9 @@ Designed to be in the corners of your gameplay window. Style matching the rest o
 <img src="/Images/Default-Large-HP-MP.gif" width="440">
 
 As I get older, my eyes get worse. Playing Ultima Online in 1440p is a real chore on the eyes. CUO/TUO have made many improvements, but there are a lot of gumps and elements that are just tiny when played in 2k or 4k. This is simple the default Health, Mana and Stamina bar but increased size. THe image on the left is the "default" size (again, updated one with my style art) and then the one on the right is the custom gump which is enlarged. Currently only poison is supported on the HP section of the bar, but this will be updated by Taz in TUO at some point.
+
+## Stacked Health, Mana, Stamina Bar - Modern Style
+
+<img src="/Images/Stacked-HP-MP-SP.gif" width="440">
+
+This is simply another more modern style Health, Mana, and Stamina bar. Designed to go in the upper corner of the window. Currently only poison is supported on the HP section of the bar, but this will be updated by Taz in TUO at some point.
