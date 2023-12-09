@@ -44,3 +44,9 @@ As I get older, my eyes get worse. Playing Ultima Online in 1440p is a real chor
 <img src="/Images/Stacked-HP-MP-SP.gif" width="350">
 
 This is simply another more modern style Health, Mana, and Stamina bar. Designed to go in the upper corner of the window. Currently only poison is supported on the HP section of the bar, but this will be updated by Taz in TUO at some point.
+
+## Character Status - Vertical
+
+<img src="/Images/Vertical-Status-Gump.gif" width="251">
+
+This is a reworking of the extended status gump. Reworked to be vertical which can easily fit more layouts that people are using. All the colors can of course be edited. The Icons are seperate images so you can update them to your liking. You can also hue all or some of the icons or even remove the icons, to customize your menu.
