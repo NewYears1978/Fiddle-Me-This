@@ -29,7 +29,7 @@ These folders are structured the same way your TazUO installation would be alrea
 
 Designed to be in the corners of your gameplay window. Style matching the rest of my UI art. You can disable the corner pieces, as well as switch which side the corner piece is on.
 
-## LargerHealth, Mana, Stamina Bar - Default Style (but updated with my art style)
+## Larger Health, Mana, Stamina Bar - Default Style
 
 <img src="/Images/Default-Large-HP-MP.gif" width="440">
 
