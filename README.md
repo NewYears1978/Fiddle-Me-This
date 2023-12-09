@@ -24,6 +24,11 @@ These folders are structured the same way your TazUO installation would be alrea
 
 ![image](https://github.com/NewYears1978/Fiddle-Me-This/assets/4557630/408adbfe-f41e-4e25-8523-2fe8db150dba)
 
+<a href="https://youtu.be/3zOJwxECzEY" target="_blank">
+ <img src="https://i9.ytimg.com/vi/3zOJwxECzEY/mq2.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
+
 # Custom Gumps Included
 
 ## Health and Mana (Diablo Inspired) 
