@@ -13,4 +13,5 @@ My work is intended to be used with TUO(TazUO) which is a fork/modified version 
 **Original:** This folder contains only art that is used to override "original" art for gumps within UO
 
 # Instructions
+
 These folders are structured the same way your TazUO installation would be already. To install simply drop the files into your root TazUO folder. Folders affected are TUO/Data/XmlGumps and TUO/ExternalImages where TUO is your TazUO installation directory.
