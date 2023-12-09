@@ -6,7 +6,7 @@ Hello Everyone. Thanks for stopping by to check out my stuff.
 
 My work is intended to be used with TUO(TazUO) which is a fork/modified version of CUO(ClassicUO). This version of the client has a PNG Overrides folder, allowing you to simply drop images into a folder and they will load into the game. This is much easier and cleaner than editing or patching .mul files. My files *can* be used with those patchers and such, if you know how to do so, and I may support this later - but for now they are meant to simply be downloaded and extracted into the TUO main directory (which will drop files into the externalimages (the override folder) and also Data/XmlGumps (for custom gumps).
 
-**To talk with me directly and the rest of the TUO Community, join us on Discord:<br>
+***Talk with me and the community directly. Join us on Discord:***
 <a href="https://discord.gg/Z48xBpXd" target="_blank" rel="noopener noreferrer">
  <img src="Images/Discord-Icon.png" alt="TazUO Discord" width="100px" />
 </a>
