@@ -1,4 +1,5 @@
 <img src="/Images/FMT-Logo.png" width="817">
+
 Hello Everyone. Thanks for stopping by to check out my stuff.
 
 *Fiddle Me This* is a collection of custom art and custom gumps for Ultima Online created by myself for personal use, but also to share with the community. The name Fiddle Me This is just a play on "Riddle Me This" from Batman - but with the tie in being that there is a program called UO Fiddler that allows you to look at, edit and extract art assets from .mul files that Ultima ONline uses.
@@ -25,9 +26,9 @@ These folders are structured the same way your TazUO installation would be alrea
 ![image](https://github.com/NewYears1978/Fiddle-Me-This/assets/4557630/408adbfe-f41e-4e25-8523-2fe8db150dba)
 
 
-**Click below to see a video of of some of the stuff in action**
+***Control Click*** **below to see a video of of some of the stuff in action**
 
-<a href="https://youtu.be/3zOJwxECzEY" target="_blank">
+<a href="https://youtu.be/3zOJwxECzEY" target="_blank" rel="noopener noreferrer">
  <img src="Images/YT-Thumb.png" alt="Watch the video" border="10" />
 </a>
 
