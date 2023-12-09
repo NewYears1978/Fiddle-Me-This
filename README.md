@@ -1,5 +1,4 @@
 <img src="/Images/FMT-Logo.png" width="817">
-![test](https://github.com/NewYears1978/Fiddle-Me-This/blob/main/Images/FMT-Logo.png?raw=true)
 
 Hello Everyone. Thanks for stopping by to check out my stuff.
 
