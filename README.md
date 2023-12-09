@@ -25,10 +25,10 @@ These folders are structured the same way your TazUO installation would be alrea
 ![image](https://github.com/NewYears1978/Fiddle-Me-This/assets/4557630/408adbfe-f41e-4e25-8523-2fe8db150dba)
 
 
-**Click here to see a video of of some of the stuff in action**
+**Click below to see a video of of some of the stuff in action**
 
 <a href="https://youtu.be/3zOJwxECzEY" target="_blank">
- <img src="https://img.youtube.com/vi/3zOJwxECzEY/0.jpg" alt="Watch the video" border="10" />
+ <img src="Images/YT-Thumb.png" alt="Watch the video" border="10" />
 </a>
 
 
