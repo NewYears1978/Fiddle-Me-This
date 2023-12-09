@@ -1,6 +1,4 @@
 <img src="/Images/FMT-Logo.png" width="817">
-Dragon icon in header image not drawn by me. I just added the text and some effects. Original image from Coin Icons on [Graphic River](https://graphicriver.net/item/coins-icons/20275714/)
-
 Hello Everyone. Thanks for stopping by to check out my stuff.
 
 *Fiddle Me This* is a collection of custom art and custom gumps for Ultima Online created by myself for personal use, but also to share with the community. The name Fiddle Me This is just a play on "Riddle Me This" from Batman - but with the tie in being that there is a program called UO Fiddler that allows you to look at, edit and extract art assets from .mul files that Ultima ONline uses.
@@ -51,3 +49,8 @@ This is simply another more modern style Health, Mana, and Stamina bar. Designed
 <img src="/Images/Vertical-Status-Gump.gif" width="251">
 
 This is a reworking of the extended status gump. Reworked to be vertical which can easily fit more layouts that people are using. All the colors can of course be edited. The Icons are seperate images so you can update them to your liking. You can also hue all or some of the icons or even remove the icons, to customize your menu.
+
+
+
+
+*Dragon icon in header image not drawn by me. I just added the text and some effects. Original image from Coin Icons on <a href="https://graphicriver.net/item/coins-icons/20275714/">Graphic River</a>.
