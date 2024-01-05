@@ -16,10 +16,10 @@
 <text x="16" y="56" hue="54" updates="TRUE" font="uo-unicode-1" size="16">Stats</text>
 <text x="16" y="81" hue="1153" updates="TRUE" font="uo-unicode-1" size="16">STR</text>
 <text x="66" y="81" hue="1281" updates="TRUE" font="uo-unicode-1" size="16">{str}</text>
-<text x="16" y="106" hue="1153" updates="TRUE" font="uo-unicode-1" size="16">INT</text>
-<text x="66" y="106" hue="1281" updates="TRUE" font="uo-unicode-1" size="16">{int}</text>
-<text x="16" y="131" hue="1153" updates="TRUE" font="uo-unicode-1" size="16">DEX</text>
-<text x="66" y="131" hue="1281" updates="TRUE" font="uo-unicode-1" size="16">{dex}</text>
+<text x="16" y="106" hue="1153" updates="TRUE" font="uo-unicode-1" size="16">DEX</text>
+<text x="66" y="106" hue="1281" updates="TRUE" font="uo-unicode-1" size="16">{dex}</text>
+<text x="16" y="131" hue="1153" updates="TRUE" font="uo-unicode-1" size="16">INT</text>
+<text x="66" y="131" hue="1281" updates="TRUE" font="uo-unicode-1" size="16">{int}</text>
 
 <!-- Stat Block Right -->
 <text x="126" y="81" hue="1153" updates="TRUE" font="uo-unicode-1" size="16">HP</text>
