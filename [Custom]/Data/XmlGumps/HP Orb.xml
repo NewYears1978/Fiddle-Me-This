@@ -9,6 +9,6 @@
 <!-- <image id="14959" hue="0" x="0" y="0"/> -->
 
 <!-- HP Orb -->
-<hp_bar_image x="10" y="10" hue_normal="0" hue_poisoned="172" hue_background="0" direction="up" image_background="14953" image_foreground="14954" />
+<hp_bar_image x="10" y="10" hue_normal="0" hue_poisoned="0" direction="up" image_background="14953" image_foreground="14954" image_foreground_poisoned="14956" />
 
 </gump>
